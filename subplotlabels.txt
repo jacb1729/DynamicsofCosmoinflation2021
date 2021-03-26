@@ -1,4 +1,0 @@
-axes.labelsize : 20
-lines.markersize : 20
-xtick.labelsize: 15
-ytick.labelsize: 15
